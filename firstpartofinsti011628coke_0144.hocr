@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./firstpartofinsti011628coke/firstpartofinsti011628coke_0144.png"; bbox 0 0 2030 3239; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1291 763 1885 897">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1291 746 1910 894">
+     <span class='ocr_line' id='line_1_1' title="bbox 1346 763 1885 835; baseline 0.004 -18"><span class='ocrx_word' id='word_1_1' title='bbox 1346 767 1508 835; x_wconf 49' lang='grc' dir='ltr'>ἡιζτιαπ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1505 774 1637 832; x_wconf 56' lang='lat'>‚1122</span> <span class='ocrx_word' id='word_1_3' title='bbox 1643 773 1713 816; x_wconf 71' lang='grc' dir='ltr'>εὶ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1720 763 1761 808; x_wconf 70' lang='grc' dir='ltr'>”·’ί</span> <span class='ocrx_word' id='word_1_5' title='bbox 1793 778 1885 819; x_wconf 51' lang='grc' dir='ltr'>,ἐι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1291 825 1817 897; baseline 0.006 -22"><span class='ocrx_word' id='word_1_6' title='bbox 1291 866 1296 875; x_wconf 91' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1343 828 1502 897; x_wconf 38' lang='grc' dir='ltr'>μυκαὶ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1514 825 1817 895; x_wconf 46' lang='grc' dir='ltr'>ᾒτωνηθ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1196 1554 1796 1683">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1196 1554 1796 1681">
+     <span class='ocr_line' id='line_1_3' title="bbox 1196 1554 1796 1637; baseline -0.005 -36"><span class='ocrx_word' id='word_1_9' title='bbox 1196 1615 1203 1618; x_wconf 20' lang='grc' dir='ltr'><strong>ξ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1207 1575 1308 1624; x_wconf 48' lang='grc' dir='ltr'>μιῇ·</span> <span class='ocrx_word' id='word_1_11' title='bbox 1310 1558 1640 1614; x_wconf 48' lang='lat' dir='ltr'>{maxsumum</span> <span class='ocrx_word' id='word_1_12' title='bbox 1631 1554 1653 1562; x_wconf 13' lang='grc' dir='ltr'>ς’</span> <span class='ocrx_word' id='word_1_13' title='bbox 1647 1559 1796 1637; x_wconf 45' lang='grc' dir='ltr'><strong>ψ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1264 1593 1715 1683; baseline -0.007 -45"><span class='ocrx_word' id='word_1_14' title='bbox 1264 1613 1289 1643; x_wconf 76' lang='lat'>.;</span> <span class='ocrx_word' id='word_1_15' title='bbox 1281 1607 1520 1683; x_wconf 51' lang='grc' dir='ltr'>ωωξῆιωὸ</span> <span class='ocrx_word' id='word_1_16' title='bbox 1516 1613 1618 1680; x_wconf 45' lang='grc' dir='ltr'>τιέξ</span> <span class='ocrx_word' id='word_1_17' title='bbox 1584 1614 1607 1635; x_wconf 53' lang='lat'>14</span> <span class='ocrx_word' id='word_1_18' title='bbox 1616 1593 1715 1648; x_wconf 47' lang='lat' dir='ltr'>‹1th&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2020 3239">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2020 3239">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2020 3239; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 2020 3239; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
